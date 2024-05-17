@@ -3,7 +3,7 @@ import datetime as dt
 
 tequila_search_endpoint = "https://tequila-api.kiwi.com/v2/search"
 
-tequila_api_key = "TBuLJ7FHtLqmR3c648PsdSvflQEx-tZ_"
+tequila_api_key = "secret"
 
 class FlightData:
     # This class is responsible for structuring the flight data.
